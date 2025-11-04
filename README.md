@@ -20,7 +20,7 @@ This repository demonstrates foundational GitHub usage for version control in cl
 - Submitted: November 5, 2025 (pre-deadline polish).
 
 ## Author
-Your Name | your.email@uni.ac.ke | [LinkedIn/GitHub Profile]
+Your Name | 2204040@students.kcau.ac.ke | [2204040-crypto]
 
 ---
 *Powered by GitHub – The Cloud's Version Control Backbone.*
